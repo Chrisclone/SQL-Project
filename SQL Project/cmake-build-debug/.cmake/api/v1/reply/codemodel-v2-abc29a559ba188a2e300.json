@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Chris/Desktop/SQL Project/cmake-build-debug",
-		"source" : "C:/Users/Chris/Desktop/SQL Project"
+		"build" : "C:/Users/Chris/Desktop/SQL-Project/SQL Project/cmake-build-debug",
+		"source" : "C:/Users/Chris/Desktop/SQL-Project/SQL Project"
 	},
 	"version" : 
 	{
